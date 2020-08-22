@@ -2,10 +2,10 @@
 
 Relax.. this app is deployed on heroku.
 
-```
+
 Here's the link:
 [Weather-API-app](https://weather-api-peesa.herokuapp.com/)
-```
+
 
 You need an API key though.
 
